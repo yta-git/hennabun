@@ -1,0 +1,2 @@
+# hennabun
+MeCabとWordNetで類語を交換して変な文章を作る
